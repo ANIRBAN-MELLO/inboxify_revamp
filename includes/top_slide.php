@@ -22,9 +22,10 @@
 
         <div class="login-block">
             <img loading="lazy" src="assets/img/signin_dark.png" class="sign-in">
-            <a class="js-window-popup" href="#">Sign up</a>
+            <a  href="signup.php?type=signup">Sign up</a>
         </div>
 
+     
         <a href="#" class="top-bar-close" id="top-bar-close-js">
             <span></span>
             <span></span>

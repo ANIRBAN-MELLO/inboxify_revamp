@@ -41,31 +41,18 @@
                             <a href="#features">Features</a>
                         </li>
                         <li class="">
-                            <a href="#ask_query">Ask Query</a>
-                        </li>
-                        <li class="">
-                            <a href="#our_approch">Our Approch</a>
-                        </li>
-                        <li class="">
-                            <a href="#happy_clients">Happy Clients</a>
-                        </li>
-                        <li class="">
                             <a href="#pricing">Pricing</a>
                         </li>
+                        <li class="">
+                            <a href="#faq">FAQ</a>
+                        </li>
+                       
                         <li class="">
                             <a href="#contact_us">Contact Us</a>
                         </li>
                     </ul>
                 </nav>
 
-
-                <div class="user-menu open-overlay">
-                    <a href="#" class="user-menu-content  js-open-aside">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </a>
-                </div>
             </div>
 
         </div>
