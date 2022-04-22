@@ -54,9 +54,8 @@
                         <img loading="lazy" src="assets/img/info-box1.png" alt="image">
                     </div>
                     <div class="info-box-content">
-                        <h5 class="info-box-title">Local Search Strategy</h5>
-                        <p class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                            sed diam nonummy nibh euismod.
+                        <h5 class="info-box-title">Dynamic Mailbox</h5>
+                        <p class="text">have a list of different domains and mailboxes? use inboxifyme to land your emails to any mailbox.
                         </p>
                     </div>
                 </div>
@@ -68,9 +67,8 @@
                         <img loading="lazy" src="assets/img/info-box2.png" alt="image">
                     </div>
                     <div class="info-box-content">
-                        <h5 class="info-box-title">Maps Search Optimization</h5>
-                        <p class="text">Claritas est etiam processus dynamicus,
-                            qui sequitur mutationem consuetudium lectorum.
+                        <h5 class="info-box-title">email analytics</h5>
+                        <p class="text">Get Detailed information regarding mails sent, click through and open count.
                         </p>
                     </div>
                 </div>
@@ -82,9 +80,8 @@
                         <img loading="lazy" src="assets/img/info-box3.png" alt="image">
                     </div>
                     <div class="info-box-content">
-                        <h5 class="info-box-title">Link Building & Content</h5>
-                        <p class="text">Investigationes demonstraverunt lectores
-                            legere me lius quod ii legunt saepius notare.
+                        <h5 class="info-box-title">Warmup Support</h5>
+                        <p class="text">Our automation Tools Help you warmup your domains saving ample time.
                         </p>
                     </div>
                 </div>
@@ -96,9 +93,8 @@
                         <img loading="lazy" src="assets/img/info-box4.png" alt="image">
                     </div>
                     <div class="info-box-content">
-                        <h5 class="info-box-title">Paid Search Advertising</h5>
-                        <p class="text">Claritas est etiam processus dynamicus,
-                            qui sequitur mutationem consuetudium lectorum.
+                        <h5 class="info-box-title">high inbox rate</h5>
+                        <p class="text">send emails to your mailerlist with high inbox rate
                         </p>
                     </div>
                 </div>
@@ -110,9 +106,8 @@
                         <img loading="lazy" src="assets/img/info-box5.png" alt="image">
                     </div>
                     <div class="info-box-content">
-                        <h5 class="info-box-title">Custom Website Design</h5>
-                        <p class="text">Investigationes demonstraverunt lectores legere
-                            me lius quod ii legunt saepius notare.
+                        <h5 class="info-box-title">IP Rotations</h5>
+                        <p class="text"> Dynamic and auto IP rotation and emails sent from a new IP everytime
                         </p>
                     </div>
                 </div>
@@ -125,8 +120,7 @@
                     </div>
                     <div class="info-box-content">
                         <h5 class="info-box-title">Custom Email Design</h5>
-                        <p class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                            sed diam nonummy nibh euismod.
+                        <p class="text"> Dynamic template for your email campaigns. 
                         </p>
                     </div>
                 </div>
