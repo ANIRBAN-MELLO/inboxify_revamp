@@ -13,14 +13,13 @@
         <div class="row pt120">
             <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
                 <div class="heading align-center mb60">
-                    <h4 class="h1 heading-title">The Best Email Marketing Strategy ny test</h4>
+                    <h4 class="h1 heading-title">The Best Email Marketing tool and strategy</h4>
                     <div class="heading-line">
                         <span class="short-line"></span>
                         <span class="long-line"></span>
                     </div>
 
-                    <p class="heading-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-                        laoreet dolore magna aliquam volutpat.
+                    <p class="heading-text">Land your emails Directly to the inbox.
                     </p>
                 </div>
             </div>
