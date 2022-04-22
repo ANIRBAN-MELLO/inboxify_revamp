@@ -432,8 +432,19 @@
                                             
                                             no contact limit
                                         </li>
+                                        <li class="position-item include">
+                                            Includes Analytics Report
+                                        </li>
+                                        <li class="position-item include">
+                                            Dynamic Template Design
+                                        </li>
                                         <li class="position-item">
-                                            -
+                                         <li class="position-item include">
+                                            Includes Analytics Report
+                                        </li>
+                                        <li class="position-item include">
+                                            Dynamic Template Design
+                                        </li>   -
                                         </li>
                                         <li class="position-item">
                                             <span class="count">200</span>
@@ -486,7 +497,7 @@
                                             Email Accounts
                                         </li>
                                     </ul>
-                                    <h4 class="rate">Rs. 59,999</h4>
+                                    <h4 class="rate">Rs. 59,999 yearly</h4>
                                     <a href="20_checkout.html" class="btn btn-medium btn--dark">
                                         <span class="text">Order Now!</span>
                                         <span class="semicircle"></span>
