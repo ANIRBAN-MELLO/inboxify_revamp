@@ -478,6 +478,9 @@
                                         <li class="position-item include">
                                             Dynamic Template Design
                                         </li>
+                                        <li class="position-item include">
+                                            Anti Spam Protection
+                                        </li>
                                         <li class="position-item">
                                             <span class="count">15</span>
                                             Email Accounts
