@@ -205,13 +205,12 @@
                     <div class="row">
                         <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
                             <div class="heading align-center">
-                                <h4 class="h1 heading-title">Affordable SEO Services Packages</h4>
+                                <h4 class="h1 heading-title">email marketing innovation and approaches</h4>
                                 <div class="heading-line">
                                     <span class="short-line"></span>
                                     <span class="long-line"></span>
                                 </div>
-                                <p class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem
-                                    consuetudium.
+                                <p class="heading-text">we Deploy innovative approaches to send emails. Unique in Trade and specific to bussiness's
                                 </p>
                             </div>
                         </div>
@@ -224,7 +223,7 @@
                                 </div>
                                 <div class="info-box-content">
                                     <h4 class="info-box-title">Objective</h4>
-                                    <p class="text">Investigationes demonstraverunt lectores legere.
+                                    <p class="text">High inbox rate with no limit on contacts.
                                     </p>
                                 </div>
                             </div>
@@ -237,7 +236,7 @@
                                 </div>
                                 <div class="info-box-content">
                                     <h4 class="info-box-title">Strategy</h4>
-                                    <p class="text">Dolor sit amet, consectetuer adipiscing elit.
+                                    <p class="text">Dynamic auto rotation SMTP server for better inboxing
                                     </p>
                                 </div>
                             </div>
@@ -249,8 +248,8 @@
                                     <img loading="lazy" src="assets/img/info-box9.png" alt="image">
                                 </div>
                                 <div class="info-box-content">
-                                    <h4 class="info-box-title">Technology</h4>
-                                    <p class="text">Nam liber tempor cum soluta nobis eleifend.
+                                    <h4 class="info-box-title">Efficient Warmup</h4>
+                                    <p class="text">Warmup is no more an issue with our bots Performing automated warmup.
                                     </p>
                                 </div>
                             </div>
@@ -263,7 +262,7 @@
                                 </div>
                                 <div class="info-box-content">
                                     <h4 class="info-box-title">Analytics</h4>
-                                    <p class="text">Eodem modo typi, qui nunc nobis videntur parum.
+                                    <p class="text">Get Detailed Report for the Email Sents, opened and Clicked. 
                                     </p>
                                 </div>
                             </div>
@@ -307,7 +306,7 @@
                                     <span class="short-line bg-yellow-color"></span>
                                     <span class="long-line bg-yellow-color"></span>
                                 </div>
-                                <p class="heading-text c-white">Claritas est etiam processus dynamicus, qui lectorum.
+                                <p class="heading-text c-white">Using this product for 8 months now. best email marketing product i have used. Got huge respones with my email campaigns. Above 90% open rate for transactional emails.
                                 </p>
                             </div>
                             <div class="signature js-animate-icon">
@@ -331,11 +330,10 @@
                                     <div class="swiper-wrapper">
                                         <div class="testimonial-slider-item swiper-slide">
                                             <div class="testimonial-content">
-                                                <p class="text" data-swiper-parallax="-200">Nam liber tempor cum soluta nobis eleifend option congue
-                                                    nihil imperdiet doming id quod mazim.
+                                                <p class="text" data-swiper-parallax="-200"> personally love the automatic warmup mechanism. the bots do the mail replying and sending from the email ID's and domains. Saves a lot of warmup time. Mail servers are always crisp and ready.
                                                 </p>
-                                                <a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-                                                <a href="#" class="company" data-swiper-parallax="-150">Envato Market</a>
+                                                <a href="#" class="author" data-swiper-parallax="-150">Md. Ali</a>
+                                                <a href="#" class="company" data-swiper-parallax="-150">instant Repair Services</a>
 
                                             </div>
                                             <div class="avatar" data-swiper-parallax="-50">
@@ -344,11 +342,10 @@
                                         </div>
                                         <div class="testimonial-slider-item swiper-slide">
                                             <div class="testimonial-content">
-                                                <p class="text" data-swiper-parallax="-200">Nam liber tempor cum soluta nobis eleifend option congue
-                                                    nihil imperdiet doming id quod mazim.
+                                                <p class="text" data-swiper-parallax="-200">Very nice support from the team. Got help with template design and a good walk through and KT for the Product. best for 3k emails daily campaigns.
                                                 </p>
                                                 <a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-                                                <a href="#" class="company" data-swiper-parallax="-150">Envato Market</a>
+                                                <a href="#" class="company" data-swiper-parallax="-150">Envata Market</a>
 
                                             </div>
                                             <div class="avatar" data-swiper-parallax="-50">
@@ -357,11 +354,10 @@
                                         </div>
                                         <div class="testimonial-slider-item swiper-slide">
                                             <div class="testimonial-content">
-                                                <p class="text" data-swiper-parallax="-200">Nam liber tempor cum soluta nobis eleifend option congue
-                                                    nihil imperdiet doming id quod mazim.
+                                                <p class="text" data-swiper-parallax="-200">Good application UI and simple mechanism.
                                                 </p>
-                                                <a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-                                                <a href="#" class="company" data-swiper-parallax="-150">Envato Market</a>
+                                                <a href="#" class="author" data-swiper-parallax="-150">Amarendra</a>
+                                                <a href="#" class="company" data-swiper-parallax="-150">Marketing Freelancer</a>
 
                                             </div>
                                             <div class="avatar" data-swiper-parallax="-50">
