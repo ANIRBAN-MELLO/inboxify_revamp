@@ -438,14 +438,7 @@
                                         <li class="position-item include">
                                             Dynamic Template Design
                                         </li>
-                                        <li class="position-item">
-                                         <li class="position-item include">
-                                            Includes Analytics Report
-                                        </li>
-                                        <li class="position-item include">
-                                            Dynamic Template Design
-                                        </li>   -
-                                        </li>
+                                        
                                         <li class="position-item">
                                             <span class="count">200</span>
                                             email Accounts 
@@ -486,7 +479,12 @@
                                         <li class="position-item include">
                                             Includes Analytics Report
                                         </li>
-                                        
+                                        <li class="position-item include">
+                                            Dynamic Template Design
+                                        </li>
+                                        <li class="position-item include">
+                                            Anti Spam Protection
+                                        </li>
                                         <li class="position-item">
                                             <span class="count">15</span>
                                             Email Accounts
