@@ -439,10 +439,7 @@
                                             Dynamic Template Design
                                         </li>
                                         
-                                        <li class="position-item">
-                                            <span class="count">200</span>
-                                            email Accounts 
-                                        </li>
+                                        
                                     </ul>
                                     <h4 class="rate">Rs. 18,999 yearly</h4>
                                     <a href="20_checkout.html" class="btn btn-medium btn--dark">
@@ -508,28 +505,37 @@
                                     <a href="#" class="pricing-title">Professional</a>
                                     <ul class="pricing-tables-position">
                                         <li class="position-item">
-                                            <span class="count">100</span>
-                                            Analytics Campaigns
+                                            <span class="count">As per Required</span>
+                                            Dedicated IP
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">7500</span>
-                                            Keywords
+                                            <span class="count">As per Required</span>
+                                            Emails daily
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">1,250,000</span>
-                                            Crawled Pages
+                                            
+                                            No Contact limit
                                         </li>
                                         <li class="position-item include">
-                                            Includes Branded Reports
+                                            Includes Warmup Strategy
+                                        </li>
+                                        <li class="position-item include">
+                                            Includes Analytics Report
+                                        </li>
+                                        <li class="position-item include">
+                                            Dynamic Template Design
+                                        </li>
+                                        <li class="position-item include">
+                                            Anti Spam Protection
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">150</span>
-                                            Social Accounts
+                                            <span class="count">15</span>
+                                            Email Accounts
                                         </li>
                                     </ul>
-                                    <h4 class="rate">$169.99</h4>
+                                    <h4 class="rate">as per Bussiness</h4>
                                     <a href="20_checkout.html" class="btn btn-medium btn--dark">
-                                        <span class="text">Order Now!</span>
+                                        <span class="text">Write us!</span>
                                         <span class="semicircle"></span>
                                     </a>
 
@@ -586,10 +592,10 @@
 
                                 <div class="post__content">
                                     <h2 class="post__title entry-title">
-                                        <p>Qemonstraverunt legere lius</p>
+                                        <p>How much time does it take to shoot 5k emails?</p>
                                     </h2>
 
-                                    <p class="post__text">Sequitur mutationem consuetudium lectorum quam nunc putamus.</p>
+                                    <p class="post__text"> It takes about 2.5 Hours approx to send 5k emails from our distributed system.</p>
 
                                 </div>
 
@@ -612,10 +618,10 @@
 
                                 <div class="post__content">
                                     <h2 class="post__title entry-title">
-                                        <p>Qemonstraverunt legere lius</p>
+                                        <p>What kind of warm up email support do we get from the product?</p>
                                     </h2>
 
-                                    <p class="post__text">Sequitur mutationem consuetudium lectorum quam nunc putamus.</p>
+                                    <p class="post__text">Warmup Strategy is included as part of support, Guidelines are set to handle in house warm up. The team is also equiped with antonomous system that carters warmup for a minimal charge.</p>
 
                                 </div>
 
@@ -638,10 +644,10 @@
 
                                 <div class="post__content">
                                     <h2 class="post__title entry-title">
-                                        <p>Qemonstraverunt legere lius</p>
+                                        <p>why does premium plan send only 10k emails, can buy 2 basic plans for less but get more daily limit?</p>
                                     </h2>
 
-                                    <p class="post__text">Sequitur mutationem consuetudium lectorum quam nunc putamus.</p>
+                                    <p class="post__text">Basic plan works well for Transactional emails else you need to go for premium plan</p>
 
                                 </div>
 
