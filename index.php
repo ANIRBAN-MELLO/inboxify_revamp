@@ -106,7 +106,7 @@
                         <img loading="lazy" src="assets/img/info-box5.png" alt="image">
                     </div>
                     <div class="info-box-content">
-                        <h5 class="info-box-title">IP Rotations</h5>
+                        <h5 class="info-box-title">Dynamic IP</h5>
                         <p class="text"> Dynamic and auto IP rotation and emails sent from a new IP everytime
                         </p>
                     </div>
