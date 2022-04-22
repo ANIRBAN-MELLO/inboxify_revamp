@@ -421,26 +421,26 @@
                                     <a href="#" class="pricing-title">Basic</a>
                                     <ul class="pricing-tables-position">
                                         <li class="position-item">
-                                            <span class="count">15</span>
+                                            <span class="count">2</span>
                                             Dedicated IP
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">5000</span>
+                                            <span class="count">6,000</span>
                                             emails daily
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">250,000</span>
-                                            Crawled Pages
+                                            
+                                            no contact limit
                                         </li>
                                         <li class="position-item">
                                             -
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">15</span>
-                                            Social Accounts
+                                            <span class="count">200</span>
+                                            email Accounts 
                                         </li>
                                     </ul>
-                                    <h4 class="rate">$49.99</h4>
+                                    <h4 class="rate">Rs. 18,999 yearly</h4>
                                     <a href="20_checkout.html" class="btn btn-medium btn--dark">
                                         <span class="text">Order Now!</span>
                                         <span class="semicircle"></span>
@@ -455,29 +455,35 @@
                                     <div class="pricing-tables-icon">
                                         <img loading="lazy" src="assets/img/pricing2.png" alt="personal">
                                     </div>
-                                    <a href="#" class="pricing-title">Webmaster</a>
+                                    <a href="#" class="pricing-title">Premium</a>
                                     <ul class="pricing-tables-position">
                                         <li class="position-item">
-                                            <span class="count">25</span>
-                                            Analytics Campaigns
+                                            <span class="count">15</span>
+                                            Dedicated IP
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">1,900</span>
-                                            Keywords
+                                            <span class="count">10,000</span>
+                                            emails daily
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">1,250,000</span>
-                                            Crawled Pages
+                                            
+                                            No Contact limit
                                         </li>
                                         <li class="position-item include">
-                                            Includes Branded Reports
+                                            Includes Warmup Strategy
+                                        </li>
+                                        <li class="position-item include">
+                                            Includes Analytics Report
+                                        </li>
+                                        <li class="position-item include">
+                                            Dynamic Template Design
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">50</span>
-                                            Social Accounts
+                                            <span class="count">15</span>
+                                            Email Accounts
                                         </li>
                                     </ul>
-                                    <h4 class="rate">$99.99</h4>
+                                    <h4 class="rate">Rs. 59,999</h4>
                                     <a href="20_checkout.html" class="btn btn-medium btn--dark">
                                         <span class="text">Order Now!</span>
                                         <span class="semicircle"></span>
