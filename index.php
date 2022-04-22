@@ -404,8 +404,7 @@
                                     <span class="short-line"></span>
                                     <span class="long-line"></span>
                                 </div>
-                                <p class="heading-text">Claritas est etiam processus dynamicus,
-                                    qui sequitur mutationem consuetudium.
+                                <p class="heading-text">worth every penny you spend!
                                 </p>
                             </div>
                         </div>
@@ -419,15 +418,15 @@
                                     <div class="pricing-tables-icon">
                                         <img loading="lazy" src="assets/img/pricing1.png" alt="personal">
                                     </div>
-                                    <a href="#" class="pricing-title">Personal</a>
+                                    <a href="#" class="pricing-title">Basic</a>
                                     <ul class="pricing-tables-position">
                                         <li class="position-item">
-                                            <span class="count">5</span>
-                                            Analytics Campaigns
+                                            <span class="count">15</span>
+                                            Dedicated IP
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">300</span>
-                                            Keywords
+                                            <span class="count">5000</span>
+                                            emails daily
                                         </li>
                                         <li class="position-item">
                                             <span class="count">250,000</span>
