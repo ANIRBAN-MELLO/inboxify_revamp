@@ -13,11 +13,8 @@
                                 <span class="short-line"></span>
                                 <span class="long-line"></span>
                             </div>
-                            <p class="heading-text">Qolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibham
-                                liber tempor cum soluta nobis eleifend option congue nihil uarta decima et quinta.
-                                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl
-                                ut aliquip ex ea commodo consequat eleifend option nihil. Investigationes demonstraverunt
-                                lectores legere me lius quod ii legunt saepius parum claram.
+                            <p class="heading-text"> We are Here to help the Complexities revolving around Email Marketing, With the best Price in market
+                                we are Ready to turn your Email Campaigns a fruitfull one. Happy to Help!
                             </p>
                         </div>
 
@@ -57,7 +54,7 @@
                                 </svg>
                             </div>
                             <div class="content">
-                                <a href="#" class="title">8 800 567.890.11</a>
+                                <a href="#" class="title">+91 70030 64842 | +91 79790 81442</a>
                                 <p class="sub-title">Mon-Fri 9am-6pm</p>
                             </div>
                         </div>
@@ -79,7 +76,7 @@
                                 </svg>
                             </div>
                             <div class="content">
-                                <a href="#" class="title">info@seosight.com</a>
+                                <a href="#" class="title">info@inboxifyme.com</a>
                                 <p class="sub-title">online support</p>
                             </div>
                         </div>
@@ -98,8 +95,8 @@
                                 </svg>
                             </div>
                             <div class="content">
-                                <a href="#" class="title">Melbourne, Australia</a>
-                                <p class="sub-title">795 South Park Avenue</p>
+                                <a href="#" class="title">Kolkata, India</a>
+                                <p class="sub-title">Salt Lake sec-V</p>
                             </div>
                         </div>
                     </div>
