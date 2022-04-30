@@ -2,20 +2,17 @@
     <div class="container">
         <div class="top-bar-contact">
             <div class="contact-item">
-                8 800 567.890.11
+                +91 70030 64842
             </div>
 
             <div class="contact-item">
-                8 800 567.890.11
+                +91 79790 81442
             </div>
 
             <div class="contact-item">
-                <a href="#">info@seosight.com</a>
+                <a href="#">info@inboxifyme.com</a>
             </div>
 
-            <div class="contact-item">
-                <a href="#">info@seosight.com</a>
-            </div>
 
             
         </div>
