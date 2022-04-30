@@ -670,10 +670,10 @@
 
                                 <div class="post__content">
                                     <h2 class="post__title entry-title">
-                                        <p>Qemonstraverunt legere lius</p>
+                                        <p>what is the charge for permium plan for inboxify?</p>
                                     </h2>
 
-                                    <p class="post__text">Sequitur mutationem consuetudium lectorum quam nunc putamus.</p>
+                                    <p class="post__text">Premium plans charges are not predefined. It may vary as per the Usage and requirement. It does not Necessarily mean that it is expesive then the lower grade plans.</p>
 
                                 </div>
 
