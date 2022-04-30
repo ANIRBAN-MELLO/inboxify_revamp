@@ -587,7 +587,7 @@
                             <article class="hentry post">
 
                                 <time class="post__date published " datetime="2016-01-30 12:00:00" style="color:#333">
-                                    January 30, 2016
+                                    August 31, 2021
                                 </time>
 
                                 <div class="post__content">
@@ -613,7 +613,7 @@
                             <article class="hentry post">
 
                                 <time class="post__date published " datetime="2016-01-30 12:00:00" style="color:#333">
-                                    January 30, 2016
+                                    May 14, 2020
                                 </time>
 
                                 <div class="post__content">
@@ -639,7 +639,7 @@
                             <article class="hentry post">
 
                                 <time class="post__date published" datetime="2016-01-30 12:00:00" style="color:#333">
-                                    January 30, 2016
+                                    January 10, 2020
                                 </time>
 
                                 <div class="post__content">
@@ -665,7 +665,7 @@
                             <article class="hentry post">
 
                                 <time class="post__date published " datetime="2016-01-30 12:00:00"style=" color:#333">
-                                    January 30, 2016
+                                    November 3, 2019
                                 </time>
 
                                 <div class="post__content">
@@ -691,15 +691,15 @@
                             <article class="hentry post">
 
                                 <time class="post__date published " datetime="2016-01-30 12:00:00"style=" color:#333">
-                                    January 30, 2016
+                                    April 24, 2019
                                 </time>
 
                                 <div class="post__content">
                                     <h2 class="post__title entry-title">
-                                        <p>Qemonstraverunt legere lius</p>
+                                        <p> What kind of report do we get after Blasting the Emails?</p>
                                     </h2>
 
-                                    <p class="post__text">Sequitur mutationem consuetudium lectorum quam nunc putamus.</p>
+                                    <p class="post__text">Login to Via your Credentials to the reporting page, URL is sent once user subscribes. User may see No of Emails Delivered,No of emails Opened and the no of emails Clicked.</p>
 
                                 </div>
 
@@ -717,15 +717,15 @@
                             <article class="hentry post">
 
                                 <time class="post__date published " datetime="2016-01-30 12:00:00"style=" color:#333">
-                                    January 30, 2016
+                                    february 15, 2019
                                 </time>
 
                                 <div class="post__content">
                                     <h2 class="post__title entry-title">
-                                        <p>Qemonstraverunt legere lius</p>
+                                        <p>What is the inbox Rate for Transactional Emails</p>
                                     </h2>
 
-                                    <p class="post__text">Sequitur mutationem consuetudium lectorum quam nunc putamus.</p>
+                                    <p class="post__text">Emails are Guranteed to land in Inbox.</p>
 
                                 </div>
 
@@ -743,15 +743,15 @@
                             <article class="hentry post">
 
                                 <time class="post__date published " datetime="2016-01-30 12:00:00"style=" color:#333">
-                                    January 30, 2016
+                                    January 30, 2019
                                 </time>
 
                                 <div class="post__content">
                                     <h2 class="post__title entry-title">
-                                        <p>Qemonstraverunt legere lius</p>
+                                        <p>Can we Send Non Transactional Emails</p>
                                     </h2>
 
-                                    <p class="post__text">Sequitur mutationem consuetudium lectorum quam nunc putamus.</p>
+                                    <p class="post__text">Yes, With Proper Warmup We can send.</p>
 
                                 </div>
 
@@ -774,10 +774,10 @@
 
                                 <div class="post__content">
                                     <h2 class="post__title entry-title">
-                                        <p>Qemonstraverunt legere lius</p>
+                                        <p>Can we use Inboxify to set up email Marketting Campaign?</p>
                                     </h2>
 
-                                    <p class="post__text">Sequitur mutationem consuetudium lectorum quam nunc putamus.</p>
+                                    <p class="post__text">Definetly, we can set up campaigns and sent it to a List.</p>
 
                                 </div>
 
@@ -820,7 +820,7 @@
                                     <span class="semicircle--right"></span>
                                 </button>
                             </form>
-                            <div class="sub-title">Sign up for new Seosignt content, updates, surveys & offers.</div>
+                            <div class="sub-title">Sign up for new Inboxify content, updates, surveys & offers.</div>
 
                         </div>
 
