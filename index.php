@@ -177,9 +177,9 @@ if (isset($_GET['login_msg'])) {
                                     <p class="heading-text">Reach out to us for any query!</p>
                                 </div>
 
-                                <div class="seo-score-form">
+                                <div class="">
 
-                                    <form class="seo-score-form input-inline crumina-submit" data-nonce="crumina-submit-form-nonce" data-type="standard" action="modules/forms/submit.php">
+                                    <form class="" data-nonce="crumina-submit-form-nonce" data-type="standard" action="querry.php" method='POST'>
 
                                         <div class="row">
 
@@ -191,7 +191,7 @@ if (isset($_GET['login_msg'])) {
                                         </div>
 
                                         <button class="btn btn-medium btn--green btn-hover-shadow">
-                                            <span class="text">Check Up!</span>
+                                            <span class="text">Send Us!</span>
                                             <span class="semicircle"></span>
                                         </button>
 
