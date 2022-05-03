@@ -25,7 +25,11 @@ if(isset($_POST['signup'])){
 
      $_SESSION['id']  = mysqli_insert_id($con);
      $_SESSION['name'] = ucfirst($fname);
-
+     $_SESSION['fname'] = $fname;
+     $_SESSION['lname'] = $lname;
+     $_SESSION['email'] = $email;
+     $_SESSION['phone'] = $phone;
+     $_SESSION['pwd'] = $pwd;
 
      if(isset($_POST['query'])){
           header('location:querry.php?the_query='.$_POST['query']);
