@@ -18,8 +18,18 @@
         </div>
 
         <div class="login-block">
+
+        <?php if(isset($_SESSION['id'])): ?>
+            <img loading="lazy" src="assets/img/signin_dark.png" class="sign-in">
+            <p><?php echo $_SESSION['name']; ?></p>
+
+        <?php else: ?>
             <img loading="lazy" src="assets/img/signin_dark.png" class="sign-in">
             <a  href="signup.php?type=signup">Sign up</a>
+
+        <?php endif; ?>
+
+          
         </div>
 
      
