@@ -102,6 +102,13 @@
                         <div class="row">
                             <div class="col-lg-6 col-md-12 col-sm-12">
                                 <input type="submit" class="form-control" name="login" style=" background-color:#4cc2c0; color:#fff; border-radius:30px; margin-top:5px" value="Login">
+                                 <span>
+                                    <?php if(isset($_GET['login_error'])){
+                                            echo $_GET['login_error'];
+                                    }
+                                    ?>
+                                    
+                                </span>
 
                                 <p>Not yet registered? <a href="signup.php?type=signup">Click here to Register</a></p>
 

@@ -16,9 +16,13 @@ if(isset($_POST['login'])){
     if (mysqli_num_rows($resultQuery) > 0) {
         $row = mysqli_fetch_row($resultQuery);
         if($row[2]==$email&&$row[4]==$pwd){
-            echo 'Yooo';
+            $_SESSION['id'] = $row[6];
+            $_SESSION['name'] = ucfirst($row[0]);
+
+            header('location:index.php?login_msg=You are logged in!');
+
         }
     }
     else{
-        echo 'shit';
+        header('location:signup.php?type=login&login_error=Wrong Credentials');
     }

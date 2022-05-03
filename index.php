@@ -17,6 +17,19 @@ if (isset($_GET['msg'])) {
 ?>
 
 
+<?php
+
+if (isset($_GET['login_msg'])) {
+?>
+    <script>
+        alert('You are logged in!');
+    </script>
+<?php
+}
+
+?>
+
+
 
 
 
