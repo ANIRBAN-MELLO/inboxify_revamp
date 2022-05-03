@@ -25,7 +25,7 @@
                     </div>
                 </div>
 
-                <form action="signupProcess.php" class="form" method='POST'>
+                <form action="/signupProcess.php" class="form" method='POST'>
                     <div class="form-group">
                         <div class="row">
                             <div class="col-lg-6 col-md-12 col-sm-12">
