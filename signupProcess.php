@@ -1,6 +1,6 @@
 <?php include("includes/dbcon.php"); 
 
-$fname = $_POST['id'];
+$fname = $_POST['fname'];
 $lname = $_POST['pass'];
 $email = $_POST['email'];
 $phone = $_POST['phone'];
