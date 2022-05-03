@@ -72,7 +72,7 @@ if (isset($_GET['msg'])) {
                     </div>
                     <div class="info-box-content">
                         <h5 class="info-box-title">Dynamic Mailbox</h5>
-                        <p class="text">have a list of different domains and mailboxes? use inboxifyme to land your emails to any mailbox.
+                        <p class="text">Have a list of different domains and mailboxes? Use inboxifyme to land your emails to any mailbox.
                         </p>
                     </div>
                 </div>
@@ -84,7 +84,7 @@ if (isset($_GET['msg'])) {
                         <img loading="lazy" src="assets/img/info-box2.png" alt="image">
                     </div>
                     <div class="info-box-content">
-                        <h5 class="info-box-title">email analytics</h5>
+                        <h5 class="info-box-title">Email Analytics</h5>
                         <p class="text">Get Detailed information regarding mails sent, click through and open count.
                         </p>
                     </div>
@@ -98,7 +98,7 @@ if (isset($_GET['msg'])) {
                     </div>
                     <div class="info-box-content">
                         <h5 class="info-box-title">Warmup Support</h5>
-                        <p class="text">Our automation Tools Help you warmup your domains saving ample time.
+                        <p class="text">Our automation tools help you warmup your domains saving ample time.
                         </p>
                     </div>
                 </div>
@@ -110,8 +110,8 @@ if (isset($_GET['msg'])) {
                         <img loading="lazy" src="assets/img/info-box4.png" alt="image">
                     </div>
                     <div class="info-box-content">
-                        <h5 class="info-box-title">high inbox rate</h5>
-                        <p class="text">send emails to your mailerlist with high inbox rate
+                        <h5 class="info-box-title">High Inbox Rate</h5>
+                        <p class="text">Send emails to your mailerlist with high inbox rate.
                         </p>
                     </div>
                 </div>
@@ -124,7 +124,7 @@ if (isset($_GET['msg'])) {
                     </div>
                     <div class="info-box-content">
                         <h5 class="info-box-title">Dynamic IP</h5>
-                        <p class="text"> Dynamic and auto IP rotation and emails sent from a new IP everytime
+                        <p class="text"> Dynamic and auto IP rotation and emails sent from a new IP everytime.
                         </p>
                     </div>
                 </div>
@@ -136,7 +136,7 @@ if (isset($_GET['msg'])) {
                         <img loading="lazy" src="assets/img/info-box6.png" alt="image">
                     </div>
                     <div class="info-box-content">
-                        <h5 class="info-box-title">Custom Email Design</h5>
+                        <h5 class="info-box-title">Custom Email Designs</h5>
                         <p class="text"> Dynamic template for your email campaigns.
                         </p>
                     </div>
@@ -147,7 +147,6 @@ if (isset($_GET['msg'])) {
     </div>
 
     <!-- ... End Info-Box -->
-
 
     <!-- SEO-Score -->
 
