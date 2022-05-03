@@ -11,7 +11,7 @@
 
 
         <div class="container">
-            <div class="signup-form medium-padding120">
+            <div class="contact-form medium-padding120">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="heading">
