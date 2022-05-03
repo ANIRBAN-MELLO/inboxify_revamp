@@ -4,6 +4,10 @@
 
 <?php include("includes/navbar.php"); ?>
 
+<div class="alert alert-success" role="alert">
+  This is a success alert—check it out!
+</div>
+
 
 <!-- ... End Right-menu -->
 
