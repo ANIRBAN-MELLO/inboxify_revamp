@@ -15,6 +15,10 @@ if(isset($_POST['login'])){
     
     if (mysqli_num_rows($resultQuery) > 0) {
         $row = mysqli_fetch_row($resultQuery);
-        echo "<pre>";
-        print_r($row);
+        if($row[2]==$email&&$row[4]==$pwd){
+            echo 'Yooo';
+        }
+    }
+    else{
+        echo 'shit';
     }
