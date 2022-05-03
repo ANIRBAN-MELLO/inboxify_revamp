@@ -221,12 +221,12 @@ if (isset($_GET['msg'])) {
                     <div class="row">
                         <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
                             <div class="heading align-center">
-                                <h4 class="h1 heading-title">email marketing innovation and approaches</h4>
+                                <h4 class="h1 heading-title">Email Marketing Innovation and Approaches</h4>
                                 <div class="heading-line">
                                     <span class="short-line"></span>
                                     <span class="long-line"></span>
                                 </div>
-                                <p class="heading-text">we Deploy innovative approaches to send emails. Unique in Trade and specific to bussiness's
+                                <p class="heading-text">We deploy Innovative approaches to send emails. Unique in Trade and specific to bussiness's
                                 </p>
                             </div>
                         </div>
@@ -285,7 +285,7 @@ if (isset($_GET['msg'])) {
                         </div>
                     </div>
 
-                    <div class="row align-center">
+                    <!-- <div class="row align-center">
                         <div class="btn-block">
                             <a href="03_services.html" class="btn btn-medium btn--dark">
                                 <span class="text">More Info</span>
@@ -296,7 +296,7 @@ if (isset($_GET['msg'])) {
                                 <span class="semicircle"></span>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -420,7 +420,7 @@ if (isset($_GET['msg'])) {
                                     <span class="short-line"></span>
                                     <span class="long-line"></span>
                                 </div>
-                                <p class="heading-text">worth every penny you spend!
+                                <p class="heading-text">Worth Every Penny You Spend!
                                 </p>
                             </div>
                         </div>
