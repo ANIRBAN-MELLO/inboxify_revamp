@@ -19,7 +19,7 @@ if (isset($_SESSION['id'])) {
     header('location:signup.php?type=order&order_type=' . $type.'&plan='.$plan);
 }
 
-$query = "insert into user_querry (user_id,querry) values ({$user_id},'{$querry}') ";
+$query = "insert into orders (user_id,order_type,order_querry,time,flag) values ({$user_id},'{$plan}', '{$_POST['order_query']}', now(), 0) ";
 
 $resultDomain = mysqli_query($con, $query);
 

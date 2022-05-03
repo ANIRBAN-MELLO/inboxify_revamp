@@ -115,9 +115,9 @@ if (isset($_GET['query'])) {
 
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <input type="hidden" class="form-control" name="order_type" style=" background-color:#4cc2c0; color:#fff; border-radius:30px; margin-top:5px" value="<?php echo $_GET['order_type'] ?>">
-                                    <input type="hidden" class="form-control" name="plan" style=" background-color:#4cc2c0; color:#fff; border-radius:30px; margin-top:5px" value="Signup">
+                                    <input type="hidden" class="form-control" name="plan" style=" background-color:#4cc2c0; color:#fff; border-radius:30px; margin-top:5px" value="<?php echo $_GET['plan'] ?>">
 
-                                    <input type="submit" class="form-control" name="signup" style=" background-color:#4cc2c0; color:#fff; border-radius:30px; margin-top:5px" value="<?php echo $_GET['plan'] ?>">
+                                    <input type="submit" class="form-control" name="signup" style=" background-color:#4cc2c0; color:#fff; border-radius:30px; margin-top:5px" value="signup">
 
                                     <p>Already registered? <a href="signup.php?type=login">Click here to Login</a></p>
                                 </div>
