@@ -66,5 +66,29 @@ $(function () {
 
     });
 
+    $('.signup-form').on("submit", function (event) {
+
+        // Stop form from submitting normally
+        event.preventDefault();
+
+        // Get some values from elements on the page:
+        var $form = $(this),
+        fname = $.trim($form.find('input[name="fname"]').val()),
+        lname = $.trim($form.find('input[name="lname"]').val()),
+        email = $.trim($form.find('input[name="email"]').val()),
+        phone = $.trim($form.find('input[name="fname"]').val()),
+        pwd = $.trim($form.find('input[name="fname"]').val()),    
+        url = $form.attr("action");
+
+        // Send the data using post
+        var posting = $.post(url, {'fname': fname, 'email': email, 'lname': lname, 'phone': phone, 'pwd': pwd})
+
+        // Put the results in a div
+        posting.done(function () {
+            $form.html('<h4>Thank you for subscription!</h4>').fadeTo(300, 1);
+        });
+
+    });
+
 });
 
