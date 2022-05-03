@@ -458,7 +458,7 @@ if (isset($_GET['msg'])) {
 
                                     </ul>
                                     <h4 class="rate">Rs. 18,999 yearly</h4>
-                                    <a href="20_checkout.html" class="btn btn-medium btn--dark">
+                                    <a href="pricing_query.php?type=order&plan=basic" class="btn btn-medium btn--dark">
                                         <span class="text">Order Now!</span>
                                         <span class="semicircle"></span>
                                     </a>
@@ -504,7 +504,7 @@ if (isset($_GET['msg'])) {
                                         </li>
                                     </ul>
                                     <h4 class="rate">Rs. 59,999 yearly</h4>
-                                    <a href="20_checkout.html" class="btn btn-medium btn--dark">
+                                    <a href="pricing_query.php?type=order&plan=premium" class="btn btn-medium btn--dark">
                                         <span class="text">Order Now!</span>
                                         <span class="semicircle"></span>
                                     </a>
@@ -550,7 +550,7 @@ if (isset($_GET['msg'])) {
                                         </li>
                                     </ul>
                                     <h4 class="rate">as per Bussiness</h4>
-                                    <a href="20_checkout.html" class="btn btn-medium btn--dark">
+                                    <a href="pricing_query.php?type=order&plan=professional" class="btn btn-medium btn--dark">
                                         <span class="text">Write us!</span>
                                         <span class="semicircle"></span>
                                     </a>

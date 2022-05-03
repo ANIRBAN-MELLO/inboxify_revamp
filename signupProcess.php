@@ -30,6 +30,9 @@ if(isset($_POST['signup'])){
      if(isset($_POST['query'])){
           header('location:querry.php?the_query='.$_POST['query']);
      }
+     elseif($_POST['order_query']){
+          header('location:pricing_query.php?the_query='.$_POST['query']);
+     }
      else{
 
      header('location:index.php?msg=Thank you!');
