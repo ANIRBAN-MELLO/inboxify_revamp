@@ -61,7 +61,7 @@ $(function () {
 
         // Put the results in a div
         posting.done(function () {
-            $form.html('<h4>Thank you for subscription!</h4>').fadeTo(300, 1);
+            $form.html('<h4>Thank you for subscription!!!!!</h4>').fadeTo(300, 1);
         });
 
     });
