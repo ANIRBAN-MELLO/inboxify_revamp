@@ -6,8 +6,8 @@ session_start();
 if(isset($_SESSION['id']))
 {
     $user_id = $_SESSION['id'];
-    if(isset($_GET['query'])){
-      $querry = $_GET['query'];
+    if(isset($_GET['the_query'])){
+      $querry = $_GET['the_query'];
     }
     else{
       $querry = $_POST['site'];

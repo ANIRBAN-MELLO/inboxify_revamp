@@ -9,7 +9,7 @@
 if (isset($_GET['msg'])) {
 ?>
     <script>
-        alert('Thank you for registering!');
+        alert('<?php echo $_GET['msg']; ?>');
     </script>
 <?php
 }
@@ -17,17 +17,6 @@ if (isset($_GET['msg'])) {
 ?>
 
 
-<?php
-
-if (isset($_GET['login_msg'])) {
-?>
-    <script>
-        alert('You are logged in!');
-    </script>
-<?php
-}
-
-?>
 
 
 
