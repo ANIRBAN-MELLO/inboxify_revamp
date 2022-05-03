@@ -10,7 +10,7 @@
             <div class="header-content-wrapper">
 
                 <div class="logo">
-                    <a href="index.html" class="full-block-link"></a>
+                    <a href="index.php" class="full-block-link"></a>
                     <img loading="lazy" src="assets/img/logo-eye.png" alt="Seosight">
                     <div class="logo-text">
                         <div class="logo-title">INBOXIFY</div>

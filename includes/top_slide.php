@@ -2,17 +2,19 @@
     <div class="container">
         <div class="top-bar-contact">
             <div class="contact-item">
-                <a href="">
+                <a href="tel:7003064842">
                 +91 70030 64842
                 </a>
             </div>
 
             <div class="contact-item">
+                <a href="tel:7979081442">
                 +91 79790 81442
+                </a>
             </div>
 
             <div class="contact-item">
-                <a href="#">info@inboxifyme.com</a>
+                <a href="mailto:info@inboxifyme.com">info@inboxifyme.com</a>
             </div>
 
 
