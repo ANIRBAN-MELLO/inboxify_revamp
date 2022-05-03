@@ -9,12 +9,15 @@ $signup = $_POST['signup'];
 
 echo $fname;
 
-    // $queryDomain = "SELECT `id` FROM `admin` WHERE `username` = '{$id}' and `password`='{$pass}'";
-    // $resultDomain = mysqli_query($con, $queryDomain);
+     //$query = "SELECT `id` FROM `admin` WHERE `username` = '{$id}' and `password`='{$pass}'";
+    $query = "insert into user_data (fname,lname,email,phone,pwd) values ('{$fname}','{$lname}','{$email}','{$phone}','{$pwd}') ";
+    $resultDomain = mysqli_query($con, $query);
     
-    // if (!$resultDomain) {
-    //     die("Validation Failed please check dbcon! ->" . mysqli_error($con));
-    // } else {
+    if (!$resultDomain) 
+    {
+         die("Validation Failed please check dbcon! ->" . mysqli_error($con));
+    } 
+    //else {
     //     $data = mysqli_fetch_assoc($resultDomain);
     //     $val = $data['id'];
 
