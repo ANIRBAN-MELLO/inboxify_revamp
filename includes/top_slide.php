@@ -21,7 +21,9 @@
 
         <?php if(isset($_SESSION['id'])): ?>
             <img loading="lazy" src="assets/img/signin_dark.png" class="sign-in">
-            <p><?php echo $_SESSION['name']; ?></p>
+            <span>Hi <?php echo $_SESSION['name']." : "; ?></span>
+            <a  href="logout.php">Logout</a>
+
 
         <?php else: ?>
             <img loading="lazy" src="assets/img/signin_dark.png" class="sign-in">
