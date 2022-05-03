@@ -2,7 +2,9 @@
     <div class="container">
         <div class="top-bar-contact">
             <div class="contact-item">
+                <a href="">
                 +91 70030 64842
+                </a>
             </div>
 
             <div class="contact-item">
