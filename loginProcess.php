@@ -9,7 +9,7 @@ if(isset($_POST['login'])){
 
 
 
-    echo $query = "select * from user_data where email = ".$email." and pwd ".$pwd."";
+    echo $query = "select * from user_data where email = ".$email." and pwd = ".$pwd."";
     //$query = "insert into user_data (email) values ('{$email}') ";
     $resultQuery = mysqli_query($con, $query);
     
