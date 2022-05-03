@@ -14,7 +14,7 @@ if(isset($_POST['login'])){
     $resultQuery = mysqli_query($con, $query);
     
     if (mysqli_num_rows($resultQuery) > 0) {
-        while($row = mysqli_fetch_assoc($resultQuery)) {
-            echo $row['email'];
-          }
+        echo 1;
+        $row = mysqli_fetch_row($resultQuery);
+        print_r($row);
     }
