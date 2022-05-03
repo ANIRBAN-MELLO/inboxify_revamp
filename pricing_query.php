@@ -15,6 +15,8 @@ if (isset($_POST['order_type'])) {
 
 if (isset($_SESSION['id'])) {
     $user_id = $_SESSION['id'];
+    header('location:signup.php?type=order&order_type=' . $type.'&plan='.$plan);
+
 } else {
     header('location:signup.php?type=order&order_type=' . $type.'&plan='.$plan);
 }
