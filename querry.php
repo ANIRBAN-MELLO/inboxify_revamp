@@ -13,7 +13,7 @@ else
     header(location:'signup.php?type=signup');
 }
     
-    $query = "insert into user_querry (user_id,querry) values ({$user_id},'{$querry}') ";
+    echo $query = "insert into user_querry (user_id,querry) values ({$user_id},'{$querry}') ";
     //$query = "insert into user_data (email) values ('{$email}') ";
     $resultDomain = mysqli_query($con, $query);
     
