@@ -10,7 +10,7 @@ if(isset($_SESSION['id']))
 }
 else
 {
-    header(location:'signup.php?type=signup');
+    header('location:signup.php?type=signup');
 }
     
     echo $query = "insert into user_querry (user_id,querry) values ({$user_id},'{$querry}') ";
