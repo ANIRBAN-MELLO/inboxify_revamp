@@ -545,11 +545,11 @@ if (isset($_GET['msg'])) {
                                             Anti Spam Protection
                                         </li>
                                         <li class="position-item">
-                                            <span class="count">15</span>
+                                            <span class="count">As per Required</span>
                                             Email Accounts
                                         </li>
                                     </ul>
-                                    <h4 class="rate">as per Bussiness</h4>
+                                    <h4 class="rate">As per Bussiness</h4>
                                     <a href="20_checkout.html" class="btn btn-medium btn--dark">
                                         <span class="text">Write us!</span>
                                         <span class="semicircle"></span>
