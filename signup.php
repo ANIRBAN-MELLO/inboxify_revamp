@@ -1,5 +1,13 @@
 <?php include("includes/header.php"); ?>
 
+<?php
+
+if(isset($_GET['query'])){
+    $query = $_GET['query'];
+}
+
+?>
+
 
 <div class="content-wrapper">
 
@@ -48,10 +56,14 @@
                             </div>
                         </div>
 
+
                         <div class="row">
                             <div class="col-lg-6 col-md-12 col-sm-12">
                                 <label for="pwd">Password</label>
                                 <input type="password" class="form-control" id="pwd" name="pwd" style=" background-color:#ddd; color:#333; border-radius:30px; margin-top:5px" required>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12">
+                                <input type="hidden" class="form-control" id="query" name="query" style=" background-color:#ddd; color:#333; border-radius:30px; margin-top:5px" value="<?php $query; ?>" required>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12">
                                 <input type="submit" class="form-control" name="signup" style=" background-color:#4cc2c0; color:#fff; border-radius:30px; margin-top:5px" value="Signup">
