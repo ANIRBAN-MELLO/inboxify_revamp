@@ -4,9 +4,20 @@
 
 <?php include("includes/navbar.php"); ?>
 
-<script>
-    alert('Thank you for registering!');
-</script>
+<?php
+
+if (isset($_GET['msg'])) {
+?>
+    <script>
+        alert('Thank you for registering!');
+    </script>
+<?php
+}
+
+?>
+
+
+
 
 
 <!-- ... End Right-menu -->
@@ -124,7 +135,7 @@
                     </div>
                     <div class="info-box-content">
                         <h5 class="info-box-title">Custom Email Design</h5>
-                        <p class="text"> Dynamic template for your email campaigns. 
+                        <p class="text"> Dynamic template for your email campaigns.
                         </p>
                     </div>
                 </div>
@@ -266,7 +277,7 @@
                                 </div>
                                 <div class="info-box-content">
                                     <h4 class="info-box-title">Analytics</h4>
-                                    <p class="text">Get Detailed Report for the Email Sents, opened and Clicked. 
+                                    <p class="text">Get Detailed Report for the Email Sents, opened and Clicked.
                                     </p>
                                 </div>
                             </div>
@@ -433,7 +444,7 @@
                                             emails daily
                                         </li>
                                         <li class="position-item">
-                                            
+
                                             no contact limit
                                         </li>
                                         <li class="position-item include">
@@ -442,8 +453,8 @@
                                         <li class="position-item include">
                                             Dynamic Template Design
                                         </li>
-                                        
-                                        
+
+
                                     </ul>
                                     <h4 class="rate">Rs. 18,999 yearly</h4>
                                     <a href="20_checkout.html" class="btn btn-medium btn--dark">
@@ -471,7 +482,7 @@
                                             emails daily
                                         </li>
                                         <li class="position-item">
-                                            
+
                                             No Contact limit
                                         </li>
                                         <li class="position-item include">
@@ -517,7 +528,7 @@
                                             Emails daily
                                         </li>
                                         <li class="position-item">
-                                            
+
                                             No Contact limit
                                         </li>
                                         <li class="position-item include">
@@ -668,7 +679,7 @@
                         <div class="swiper-slide">
                             <article class="hentry post">
 
-                                <time class="post__date published " datetime="2016-01-30 12:00:00"style=" color:#333">
+                                <time class="post__date published " datetime="2016-01-30 12:00:00" style=" color:#333">
                                     November 3, 2019
                                 </time>
 
@@ -694,7 +705,7 @@
                         <div class="swiper-slide">
                             <article class="hentry post">
 
-                                <time class="post__date published " datetime="2016-01-30 12:00:00"style=" color:#333">
+                                <time class="post__date published " datetime="2016-01-30 12:00:00" style=" color:#333">
                                     April 24, 2019
                                 </time>
 
@@ -720,7 +731,7 @@
                         <div class="swiper-slide">
                             <article class="hentry post">
 
-                                <time class="post__date published " datetime="2016-01-30 12:00:00"style=" color:#333">
+                                <time class="post__date published " datetime="2016-01-30 12:00:00" style=" color:#333">
                                     february 15, 2019
                                 </time>
 
@@ -746,7 +757,7 @@
                         <div class="swiper-slide">
                             <article class="hentry post">
 
-                                <time class="post__date published " datetime="2016-01-30 12:00:00"style=" color:#333">
+                                <time class="post__date published " datetime="2016-01-30 12:00:00" style=" color:#333">
                                     January 30, 2019
                                 </time>
 
@@ -772,7 +783,7 @@
                         <div class="swiper-slide">
                             <article class="hentry post">
 
-                                <time class="post__date published " datetime="2016-01-30 12:00:00"style=" color:#333">
+                                <time class="post__date published " datetime="2016-01-30 12:00:00" style=" color:#333">
                                     January 30, 2016
                                 </time>
 
