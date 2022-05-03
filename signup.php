@@ -71,7 +71,7 @@
     <?php else : ?>
 
         <div class="container">
-            <div class="contact-form medium-padding120">
+            <div class="medium-padding120">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="heading">
@@ -85,7 +85,7 @@
                     </div>
                 </div>
 
-                <form action="" class="form">
+                <form action="loginProcess.php" class="form" method="post">
                     <div class="form-group">
                       
                         <div class="row">
@@ -101,7 +101,7 @@
 
                         <div class="row">
                             <div class="col-lg-6 col-md-12 col-sm-12">
-                                <input type="submit" class="form-control" name="signup" style=" background-color:#4cc2c0; color:#fff; border-radius:30px; margin-top:5px" value="Login">
+                                <input type="submit" class="form-control" name="login" style=" background-color:#4cc2c0; color:#fff; border-radius:30px; margin-top:5px" value="Login">
 
                                 <p>Not yet registered? <a href="signup.php?type=signup">Click here to Register</a></p>
 

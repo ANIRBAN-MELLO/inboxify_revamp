@@ -22,7 +22,9 @@ if(isset($_POST['signup'])){
          die("User data not saved, please check code ->" . mysqli_error($con));
     } 
    else{   
+        
      $_SESSION['id']  = mysqli_insert_id($con);
      $_SESSION['name'] = ucfirst($fname);
+
      header('location:index.php?msg=Thank you!');
    }
